@@ -1,0 +1,392 @@
+{
+  "formData": {
+    "email-address": ""
+  },
+  "allElements": {
+    "radio__f605609a-8c23-4910-8427-6e84be0dbb7d": {
+      "type": "radio",
+      "value": "Mdm",
+      "id": "",
+      "name": "radio__f605609a-8c23-4910-8427-6e84be0dbb7d",
+      "className": "",
+      "tagName": "INPUT",
+      "xpath": "//*[@id=\"radio-field__5fbabb58-d5f5-427a-bb0a-28d5fd234260\"]/INPUT[1]",
+      "attributes": {
+        "data-v-cf9ccb7e": "",
+        "type": "radio",
+        "data-vv-as": "above",
+        "name": "radio__f605609a-8c23-4910-8427-6e84be0dbb7d",
+        "value": "Mdm",
+        "aria-required": "true",
+        "aria-invalid": "false",
+        "style": ""
+      },
+      "checked": false
+    },
+    "text-field__f1d09e9f-a63a-4d5b-b988-0736fe635cb9": {
+      "type": "text",
+      "value": "",
+      "id": "text-field__f1d09e9f-a63a-4d5b-b988-0736fe635cb9",
+      "name": "name__34074a34-37ff-4164-a343-a38707b67dc4",
+      "className": "form-control",
+      "tagName": "INPUT",
+      "xpath": "//*[@id=\"text-field__f1d09e9f-a63a-4d5b-b988-0736fe635cb9\"]",
+      "attributes": {
+        "data-v-24dc2411": "",
+        "type": "text",
+        "data-vv-as": "above",
+        "name": "name__34074a34-37ff-4164-a343-a38707b67dc4",
+        "placeholder": "",
+        "id": "text-field__f1d09e9f-a63a-4d5b-b988-0736fe635cb9",
+        "aria-describedby": "helpBlock",
+        "class": "form-control",
+        "aria-required": "true",
+        "aria-invalid": "false",
+        "style": ""
+      }
+    },
+    "text-field__fab2839d-2f59-45fe-9a73-af2d9fe4dbd4": {
+      "type": "text",
+      "value": "",
+      "id": "text-field__fab2839d-2f59-45fe-9a73-af2d9fe4dbd4",
+      "name": "name__c3a7a6f2-e710-440a-a99f-56567cd48c94",
+      "className": "form-control",
+      "tagName": "INPUT",
+      "xpath": "//*[@id=\"text-field__fab2839d-2f59-45fe-9a73-af2d9fe4dbd4\"]",
+      "attributes": {
+        "data-v-24dc2411": "",
+        "type": "text",
+        "data-vv-as": "above",
+        "name": "name__c3a7a6f2-e710-440a-a99f-56567cd48c94",
+        "placeholder": "",
+        "id": "text-field__fab2839d-2f59-45fe-9a73-af2d9fe4dbd4",
+        "aria-describedby": "helpBlock",
+        "class": "form-control",
+        "aria-required": "true",
+        "aria-invalid": "false",
+        "style": ""
+      }
+    },
+    "email-field__587763a8-1b35-4b43-87cb-7e2c8fdf35f9": {
+      "type": "text",
+      "value": "",
+      "id": "email-field__587763a8-1b35-4b43-87cb-7e2c8fdf35f9",
+      "name": "email__45e70f73-9fb3-4b6a-aaa8-139fdcb77417",
+      "className": "form-control",
+      "tagName": "INPUT",
+      "xpath": "//*[@id=\"email-field__587763a8-1b35-4b43-87cb-7e2c8fdf35f9\"]",
+      "attributes": {
+        "data-v-24dc2411": "",
+        "type": "text",
+        "data-vv-as": "above",
+        "name": "email__45e70f73-9fb3-4b6a-aaa8-139fdcb77417",
+        "placeholder": "",
+        "id": "email-field__587763a8-1b35-4b43-87cb-7e2c8fdf35f9",
+        "aria-describedby": "helpBlock",
+        "class": "form-control",
+        "aria-required": "true",
+        "aria-invalid": "false",
+        "style": ""
+      }
+    },
+    "dropdown-field__ba06bb8f-9b74-46ba-a8cc-d46d74e9cb71": {
+      "type": "select-one",
+      "value": "",
+      "id": "dropdown-field__ba06bb8f-9b74-46ba-a8cc-d46d74e9cb71",
+      "name": "dropdown__e97fc214-9250-47fe-93c5-2c3675724f0f",
+      "className": "form-control custom-select select2-vuejs select2-hidden-accessible",
+      "tagName": "SELECT",
+      "xpath": "//*[@id=\"dropdown-field__ba06bb8f-9b74-46ba-a8cc-d46d74e9cb71\"]",
+      "attributes": {
+        "data-v-48d06bf6": "",
+        "data-vv-as": "above",
+        "id": "dropdown-field__ba06bb8f-9b74-46ba-a8cc-d46d74e9cb71",
+        "name": "dropdown__e97fc214-9250-47fe-93c5-2c3675724f0f",
+        "placeholder": "Please select",
+        "class": "form-control custom-select select2-vuejs select2-hidden-accessible",
+        "aria-required": "true",
+        "aria-invalid": "false",
+        "data-select2-id": "dropdown-field__ba06bb8f-9b74-46ba-a8cc-d46d74e9cb71",
+        "tabindex": "-1",
+        "aria-hidden": "true"
+      },
+      "options": [
+        {
+          "text": "Please select",
+          "value": "null",
+          "selected": false
+        },
+        {
+          "text": "No preference",
+          "value": "No preference",
+          "selected": false
+        },
+        {
+          "text": "9am - 1pm",
+          "value": "9am - 1pm",
+          "selected": false
+        },
+        {
+          "text": "1pm - 6pm",
+          "value": "1pm - 6pm",
+          "selected": false
+        }
+      ]
+    },
+    "dropdown-field__5675edb4-f8ed-44f8-a043-a0e9169999e3": {
+      "type": "select-one",
+      "value": "",
+      "id": "dropdown-field__5675edb4-f8ed-44f8-a043-a0e9169999e3",
+      "name": "dropdown__77842dcf-b461-4da6-becd-e8d756a0cae3",
+      "className": "form-control custom-select select2-vuejs select2-hidden-accessible",
+      "tagName": "SELECT",
+      "xpath": "//*[@id=\"dropdown-field__5675edb4-f8ed-44f8-a043-a0e9169999e3\"]",
+      "attributes": {
+        "data-v-48d06bf6": "",
+        "data-vv-as": "above",
+        "id": "dropdown-field__5675edb4-f8ed-44f8-a043-a0e9169999e3",
+        "name": "dropdown__77842dcf-b461-4da6-becd-e8d756a0cae3",
+        "placeholder": "Please select",
+        "class": "form-control custom-select select2-vuejs select2-hidden-accessible",
+        "aria-required": "true",
+        "aria-invalid": "false",
+        "data-select2-id": "dropdown-field__5675edb4-f8ed-44f8-a043-a0e9169999e3",
+        "tabindex": "-1",
+        "aria-hidden": "true"
+      },
+      "options": [
+        {
+          "text": "Please select",
+          "value": "null",
+          "selected": false
+        },
+        {
+          "text": "London Property Financing",
+          "value": "London Property Financing",
+          "selected": false
+        },
+        {
+          "text": "Australia Property Financing",
+          "value": "Australia Property Financing",
+          "selected": false
+        },
+        {
+          "text": "Malaysia Property Financing",
+          "value": "Malaysia Property Financing",
+          "selected": false
+        },
+        {
+          "text": "New York Property Financing",
+          "value": "New York Property Financing",
+          "selected": false
+        },
+        {
+          "text": "Tokyo Property Financing",
+          "value": "Tokyo Property Financing",
+          "selected": false
+        },
+        {
+          "text": "None of the above",
+          "value": "None of the above",
+          "selected": false
+        }
+      ]
+    },
+    "textbox-field__a41d2aa9-efd6-41d4-b904-a683dac0af34": {
+      "type": "textarea",
+      "value": "",
+      "id": "textbox-field__a41d2aa9-efd6-41d4-b904-a683dac0af34",
+      "name": "name__5ab444fc-cef6-4d5b-8493-11312c8ddd6b",
+      "className": "form-control",
+      "tagName": "TEXTAREA",
+      "xpath": "//*[@id=\"textbox-field__a41d2aa9-efd6-41d4-b904-a683dac0af34\"]",
+      "attributes": {
+        "data-v-cf8ea47a": "",
+        "data-vv-as": "above",
+        "id": "textbox-field__a41d2aa9-efd6-41d4-b904-a683dac0af34",
+        "placeholder": "Enter Text",
+        "name": "name__5ab444fc-cef6-4d5b-8493-11312c8ddd6b",
+        "rows": "3",
+        "class": "form-control",
+        "aria-required": "false",
+        "aria-invalid": "false",
+        "style": ""
+      }
+    },
+    "captcha-value": {
+      "type": "text",
+      "value": "",
+      "id": "",
+      "name": "captcha-value",
+      "className": "form-control",
+      "tagName": "INPUT",
+      "xpath": "//*[@id=\"submitModal\"]/DIV[1]/DIV[1]/DIV[2]/FORM[1]/DIV[2]/INPUT[1]",
+      "attributes": {
+        "data-v-cdb67c3c": "",
+        "type": "text",
+        "name": "captcha-value",
+        "placeholder": "Verification code",
+        "class": "form-control",
+        "aria-required": "true",
+        "aria-invalid": "false",
+        "style": ""
+      }
+    },
+    "email-address": {
+      "type": "text",
+      "value": "",
+      "id": "",
+      "name": "email-address",
+      "className": "form-control",
+      "tagName": "INPUT",
+      "xpath": "//*[@id=\"saveExitModal\"]/DIV[1]/DIV[1]/DIV[2]/FORM[1]/DIV[1]/DIV[1]/INPUT[1]",
+      "attributes": {
+        "data-v-cdb67c3c": "",
+        "type": "text",
+        "name": "email-address",
+        "placeholder": "Please provide us your email address like abc@xyz.com",
+        "class": "form-control",
+        "aria-required": "true",
+        "aria-invalid": "false",
+        "style": ""
+      }
+    },
+    "country": {
+      "type": "select-one",
+      "value": "#",
+      "id": "country",
+      "name": "country",
+      "className": "text--bold",
+      "tagName": "SELECT",
+      "xpath": "//*[@id=\"country\"]",
+      "attributes": {
+        "class": "text--bold",
+        "name": "country",
+        "id": "country"
+      },
+      "options": [
+        {
+          "text": "Singapore",
+          "value": "#",
+          "selected": true
+        },
+        {
+          "text": "Malaysia",
+          "value": "https://www.ocbc.com.my/",
+          "selected": false
+        },
+        {
+          "text": "China",
+          "value": "https://www.ocbc.com.cn/",
+          "selected": false
+        },
+        {
+          "text": "Indonesia",
+          "value": "https://www.ocbc.id",
+          "selected": false
+        }
+      ]
+    }
+  },
+  "formStructure": {
+    "tagName": "FORM",
+    "id": "",
+    "name": "",
+    "type": null,
+    "className": "",
+    "value": null,
+    "checked": null,
+    "attributes": {
+      "data-v-cdb67c3c": ""
+    },
+    "xpath": "//*[@id=\"saveExitModal\"]/DIV[1]/DIV[1]/DIV[2]/FORM[1]",
+    "children": [
+      {
+        "tagName": "DIV",
+        "id": "",
+        "name": null,
+        "type": null,
+        "className": "mb3 text-element",
+        "value": null,
+        "checked": null,
+        "attributes": {
+          "data-v-cdb67c3c": "",
+          "class": "mb3 text-element"
+        },
+        "xpath": "//*[@id=\"saveExitModal\"]/DIV[1]/DIV[1]/DIV[2]/FORM[1]/DIV[1]",
+        "children": [
+          {
+            "tagName": "DIV",
+            "id": "",
+            "name": null,
+            "type": null,
+            "className": "form-group",
+            "value": null,
+            "checked": null,
+            "attributes": {
+              "data-v-cdb67c3c": "",
+              "class": "form-group"
+            },
+            "xpath": "//*[@id=\"saveExitModal\"]/DIV[1]/DIV[1]/DIV[2]/FORM[1]/DIV[1]/DIV[1]",
+            "children": [
+              {
+                "tagName": "LABEL",
+                "id": "",
+                "name": null,
+                "type": null,
+                "className": "control-label",
+                "value": null,
+                "checked": null,
+                "attributes": {
+                  "data-v-cdb67c3c": "",
+                  "class": "control-label"
+                },
+                "xpath": "//*[@id=\"saveExitModal\"]/DIV[1]/DIV[1]/DIV[2]/FORM[1]/DIV[1]/DIV[1]/LABEL[1]",
+                "children": []
+              },
+              {
+                "tagName": "INPUT",
+                "id": "",
+                "name": "email-address",
+                "type": "text",
+                "className": "form-control",
+                "value": "",
+                "checked": false,
+                "attributes": {
+                  "data-v-cdb67c3c": "",
+                  "type": "text",
+                  "name": "email-address",
+                  "placeholder": "Please provide us your email address like abc@xyz.com",
+                  "class": "form-control",
+                  "aria-required": "true",
+                  "aria-invalid": "false",
+                  "style": ""
+                },
+                "xpath": "//*[@id=\"saveExitModal\"]/DIV[1]/DIV[1]/DIV[2]/FORM[1]/DIV[1]/DIV[1]/INPUT[1]",
+                "children": []
+              },
+              {
+                "tagName": "SPAN",
+                "id": "",
+                "name": null,
+                "type": null,
+                "className": "custom_error",
+                "value": null,
+                "checked": null,
+                "attributes": {
+                  "data-v-cdb67c3c": "",
+                  "class": "custom_error",
+                  "style": "display: none;"
+                },
+                "xpath": "//*[@id=\"saveExitModal\"]/DIV[1]/DIV[1]/DIV[2]/FORM[1]/DIV[1]/DIV[1]/SPAN[1]",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "url": "https://www.ocbc.com/personal-banking/forms/overseas-property-loan-enquiry",
+  "timestamp": "2025-03-12T13:44:40.602Z"
+}
