@@ -1,1 +1,38 @@
- 
+# Environment variables
+.env
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Playwright
+**/node_modules/
+**/package-lock.json
+**/playwright-report/
+**/test-results/
+**/playwright/.cache/
+
+# Project specific
+form_screenshots/
+form_analysis_output/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+.venv/lib/python3.9/site-packages/playwright/driver/node 
